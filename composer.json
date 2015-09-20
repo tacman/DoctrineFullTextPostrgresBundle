@@ -11,7 +11,7 @@
   ],
   "require": {
     "vertigolabs/doctrine-full-text-postgres": "v1.0",
-    "symfony/framework-bundle": "2.7.x-dev"
+    "symfony/framework-bundle": ">=2.7"
   },
   "autoload": {
 	"psr-0": {
