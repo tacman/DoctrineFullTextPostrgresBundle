@@ -1,0 +1,22 @@
+{
+  "name": "vertigolabs/doctrine-full-text-postgres-bundle",
+  "description": "A bundle for the VertigoLabs DoctrineFullTextPostgres package",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+	{
+	  "name": "James Murray",
+	  "email": "jaimz@vertigolabs.org"
+	}
+  ],
+  "require": {
+    "vertigolabs/doctrine-full-text-postgres": "v1.0",
+    "symfony/framework-bundle": "2.7.x-dev"
+  },
+  "autoload": {
+	"psr-0": {
+	  "VertigoLabs\\DoctrineFullTextPostgresBundle": ""
+	}
+  },
+  "target-dir": "vertigolabs/doctrine-full-text-postgres-bundle"
+}
