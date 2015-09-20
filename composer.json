@@ -17,6 +17,5 @@
 	"psr-0": {
 	  "VertigoLabs\\DoctrineFullTextPostgresBundle": ""
 	}
-  },
-  "target-dir": "vertigolabs/doctrine-full-text-postgres-bundle"
+  }
 }
