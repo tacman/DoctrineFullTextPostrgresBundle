@@ -6,7 +6,7 @@
  * @time: 11:12 PM
  */
 
-namespace VertigoLabs;
+namespace VertigoLabs\DoctrineFullTextPostgresBundle;
 
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
