@@ -42,6 +42,8 @@ public function registerBundles()
 
 ## Configure Doctrine
 
+The bundle should handle this automatically.
+
 ```yml
 # Doctrine Configuration
 doctrine:

@@ -17,5 +17,11 @@
 	"psr-4": {
 	  "VertigoLabs\\DoctrineFullTextPostgresBundle\\": "/"
 	}
+  },
+  "repositories": {
+    "doctrine_full_text": {
+      "type": "path",
+      "url": "/home/tac/g/tacman/DoctrineFullTextPostrgres"
+    }
   }
 }
